@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\Projetos\Jogo_da_Forca\Jogo_da_Forca\Jogo_da_Forca\bin\Debug\Jogo_da_Forca.exe.config
+D:\Documentos\Estudos\C#\Projetos\Jogo_da_Forca\Jogo_da_Forca\Jogo_da_Forca\bin\Debug\Jogo_da_Forca.exe
+D:\Documentos\Estudos\C#\Projetos\Jogo_da_Forca\Jogo_da_Forca\Jogo_da_Forca\bin\Debug\Jogo_da_Forca.pdb
+D:\Documentos\Estudos\C#\Projetos\Jogo_da_Forca\Jogo_da_Forca\Jogo_da_Forca\obj\Debug\Jogo_da_Forca.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\Projetos\Jogo_da_Forca\Jogo_da_Forca\Jogo_da_Forca\obj\Debug\Jogo_da_Forca.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\Projetos\Jogo_da_Forca\Jogo_da_Forca\Jogo_da_Forca\obj\Debug\Jogo_da_Forca.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\Projetos\Jogo_da_Forca\Jogo_da_Forca\Jogo_da_Forca\obj\Debug\Jogo_da_Forca.exe
+D:\Documentos\Estudos\C#\Projetos\Jogo_da_Forca\Jogo_da_Forca\Jogo_da_Forca\obj\Debug\Jogo_da_Forca.pdb
