@@ -45,15 +45,28 @@ namespace Partida
             }
         }
 
-        public void letrasOcultas()
+        public char letrasOcultas()
         {
             string palavra = escolherPalavra();
-            char[] letrasPalavra = new char[palavra.Length];
+            char[] palavraOculta = new char[palavra.Length];
             for (int i = 0; i < palavra.Length; i++)
             {
-                letrasPalavra[i] = palavra[i];
+                palavraOculta[i] = '-';
             }
+            return palavraOculta[];
         }
+
+        public void Jogando()
+        {
+            escolherPalavra();
+            letrasDaPalavra();
+            letrasOcultas();
+
+            Console.WriteLine("A palavra tem cinco letras: ");            
+        }
+
+
+
 
 
     }

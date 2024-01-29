@@ -21,8 +21,15 @@ namespace Jogo_da_Forca
             return sb.ToString();
         }
 
+        public string Jogando()
+        {
+            StringBuilder sb = new StringBuilder();
 
 
 
+
+
+            return sb.ToString();
+        }
     }
 }

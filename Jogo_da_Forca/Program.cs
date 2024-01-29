@@ -16,8 +16,9 @@ namespace Jogo_da_Forca
                 Partidaforca partida = new Partidaforca();
 
                 while (!partida.terminada)
-                { 
-
+                {
+                    partida.Jogando();
+                    partida.terminada = true;
                 }
             }
             catch (IOException e)
@@ -25,8 +26,6 @@ namespace Jogo_da_Forca
                 Console.WriteLine("Erro do Arquivo não encontrado");
                 Console.WriteLine(e.Message);
             }
-
-
         }
     }
 }
