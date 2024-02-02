@@ -17,19 +17,12 @@ namespace Jogo_da_Forca
             sb.AppendLine("                          Por Leandro Alves!");
             sb.AppendLine("");
             sb.AppendLine("Para este jogo, foi utilizado varias palavras com no maximo cinco letras, boa sorte!");
-
             return sb.ToString();
         }
 
-        public string Jogando()
-        {
-            StringBuilder sb = new StringBuilder();
 
 
 
-
-
-            return sb.ToString();
-        }
+       
     }
 }

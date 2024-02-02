@@ -7,18 +7,17 @@ namespace Jogo_da_Forca
     internal class Program
     {
         static void Main(string[] args)
-        {        
+        {
+            Partidaforca partida = new Partidaforca();
             try
             {
-                Tela tela = new Tela();
-                Console.WriteLine(tela.Inicio());
-
-                Partidaforca partida = new Partidaforca();
-
                 while (!partida.terminada)
                 {
-                    partida.Jogando();
-                    partida.terminada = true;
+                    Console.Clear();
+
+                    partida.escolherPalavra();
+                    partida.jogando();
+
                 }
             }
             catch (IOException e)
